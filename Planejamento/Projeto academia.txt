@@ -1,0 +1,27 @@
+Projeto academia
+
+repositório planejamento:
+https://github.com/Proj-java-academia/Planejamento.git
+
+...
+
+Passo 1 
+Criar front end
+tela de login
+tela de inicio...
+	cadastrar novo usuario
+	consultar o cadastrado
+	deletar usuário antigo.
+Passo 2
+Banco de dados
+cpf	nome	email	data de nascimento	sexo
+
+Passo 3
+Back end (organizar todas as funcionabilidades e ligar o banco de dados.
+
+linguagens que provavelmente serão usadas
+sql
+java
+css.
+
+Aprender como usar Api's.
